@@ -6,9 +6,14 @@ Live Demo can be viewed at https://gadget-ghor.herokuapp.com
 
 
 
-
+Home Page
 ![DEMO](../master/static/images/Homepage.jpg)
 
+Product Page
+![DEMO](../master/static/images/Productpage.jpg)
+
+Order Page
+![DEMO](../master/static/images/Orderpage.jpg)
 
 # Features
 * Full featured shopping cart
