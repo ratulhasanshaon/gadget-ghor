@@ -37,8 +37,11 @@ Live Demo can be viewed at https://gadget-ghor.herokuapp.com
 # Product Management Page
 ![DEMO](../master/static/images/ProductManagement.jpg)
 
-# Order Management Page
+# Order List Page
 ![DEMO](../master/static/images/OrderManagement.jpg)
+
+# Order Update Page
+![DEMO](../master/static/images/OrderUpdate.jpg)
 
 # Download & Setup Instructions
 
