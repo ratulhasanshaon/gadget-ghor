@@ -6,13 +6,13 @@ Live Demo can be viewed at https://gadget-ghor.herokuapp.com
 
 
 
-#Home Page
+# Home Page
 ![DEMO](../master/static/images/Homepage.jpg)
 
-#Product Page
+# Product Page
 ![DEMO](../master/static/images/Productpage.jpg)
 
-#Order Page
+# Order Page
 ![DEMO](../master/static/images/Orderpage.jpg)
 
 # Features
