@@ -15,6 +15,8 @@ Live Demo can be viewed at https://gadget-ghor.herokuapp.com
 # Order Page
 ![DEMO](../master/static/images/Orderpage.jpg)
 
+
+
 # Features
 * Full featured shopping cart
 * Product reviews and ratings
@@ -29,6 +31,14 @@ Live Demo can be viewed at https://gadget-ghor.herokuapp.com
 * Checkout process (shipping, payment method, etc)
 * PayPal / credit card integration
 
+# User Management Page
+![DEMO](../master/static/images/UserManagement.jpg)
+
+# Product Management Page
+![DEMO](../master/static/images/ProductManagement.jpg)
+
+# Order Management Page
+![DEMO](../master/static/images/OrderManagement.jpg)
 
 # Download & Setup Instructions
 
