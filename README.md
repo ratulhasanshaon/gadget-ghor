@@ -7,7 +7,7 @@ Live Demo can be viewed at https://gadget-ghor.herokuapp.com
 
 
 
-![DEMO](../master/static/images/proshop_django_demo.png)
+![DEMO](../master/static/images/Homepage.jpg)
 
 
 # Features
