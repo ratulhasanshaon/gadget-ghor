@@ -1,8 +1,10 @@
-# PropShop Ecommerce Website With Django + React
+# Gadget-Ghor Ecommerce Website With Django + React
 
-Live Demo can be viewed at https://www.buildproshop.com/
 
-This project is from my Django + React collaboration wih Brad Traversy. Full Course: https://www.udemy.com/course/django-with-react-an-ecommerce-website/?couponCode=387F19CD4087385E87C1
+
+Live Demo can be viewed at https://gadget-ghor.herokuapp.com
+
+
 
 
 ![DEMO](../master/static/images/proshop_django_demo.png)
@@ -32,6 +34,4 @@ This project is from my Django + React collaboration wih Brad Traversy. Full Cou
 * 5 - pip install -r requirements.txt
 * 6 - python manage.py runserver
 
-# Install react modules
-* 1 - cd frontend
-* 2 - npm install
+
