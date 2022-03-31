@@ -32,11 +32,12 @@ Live Demo can be viewed at https://gadget-ghor.herokuapp.com
 
 # Download & Setup Instructions
 
-* 1 - Clone project: git clone https://github.com/divanov11/proshop_django/
-* 2 - cd proshop_django
+* 1 - Clone project: git clone https://github.com/ratulhasanshaon/gadget-ghor
+* 2 - cd gadget-ghor or open the gadget-ghor folder in your IDE
 * 3 - Create virtual environment: virtualenv myenv
 * 4 - myenv\scripts\activate
 * 5 - pip install -r requirements.txt
-* 6 - python manage.py runserver
+* 6 - cd backend
+* 7 - python manage.py runserver
 
 
