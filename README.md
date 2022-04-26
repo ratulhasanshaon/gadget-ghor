@@ -18,6 +18,8 @@ Live Demo can be viewed at https://gadget-ghor.herokuapp.com
 
 
 # Features
+A completely customized eCommerce / shopping cart application from scratch using Django & REACT with the following functionality.
+
 * Full featured shopping cart
 * Product reviews and ratings
 * Top products carousel
